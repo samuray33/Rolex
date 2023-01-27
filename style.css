@@ -1,0 +1,93 @@
+body{
+	background-color: #DBDCDB;
+}
+
+#contenttop{
+    display: flex;
+	margin: 0 auto;
+    max-width: 1890px;
+}
+
+#indexleft{
+    background-color: #DBDCDB;
+    margin: -1% 28.8% 0% -1%;
+	padding: 20% 23% 14% 14%;
+}
+
+#names{
+    font-size: 150px;
+    margin: -250px 0px 0px 0px;
+	padding: 0px 0px 0px 10px;
+	border-left: #000000 solid 10px;
+    
+}
+
+#dopinf{
+	border-bottom: #000000 solid 5px;
+}
+
+#indexright{
+    background-color: #187952;
+    margin:-50px 100px 0px -632px;
+	padding:0px 105px 250px 0px;
+    border-left: #000000 solid 10px;
+	border-bottom: #000000 solid 10px;
+}
+
+#zagchas{
+    margin: 24% 0% 0% -42.3%;
+    padding: 0px 0px 0px 0px;
+}
+
+#namesRollex{
+    font-size: 150px;
+    margin: 160px 0px 0px 100px;
+}
+
+#dopinf1{
+    margin: 200px 0px 0px 70px;
+    border-bottom: #000000 solid 2px;
+}
+
+#dopinf2{
+    margin: 85px 0px 0px 120px;
+    border-bottom: #000000 solid 2px;
+}
+
+#dopinf3{
+    margin: 90px 0px 0px 70px;
+    border-bottom: #000000 solid 2px;
+}
+
+#contentbottom{
+	margin: 0 auto;
+    max-width: 1890px;
+}
+
+#tav{
+	margin: 100px 0px 0px 0px;
+}
+
+#alltavbig{
+	margin: 0px 0px 0px 300px;
+	
+}
+
+#tavmin{
+	display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0px 0px;
+}
+
+#alltavmin1{
+	margin:0px 15px 0px 290px;
+}
+
+img{
+	border-radius: 30px;
+}
+
+a{
+	text-decoration:none;
+	color:#000000;
+}
